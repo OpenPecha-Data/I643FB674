@@ -1,0 +1,30 @@
+id: I643FB674
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-15T20:15:17.546981'
+last_modified: '2022-06-15T20:15:17.547211'
+parser: null
+source_metadata:
+  title: Vasubandhu
+  language: en
+  description: 'Texts by and about the great Indian paṇḍita Vasubandhu (dbyig gnyen),
+    author of the Treasury of Abhidharma and other treatises:'
+  volume:
+    f9DE1:
+      title: 'Light on the Path of Liberation: The Life of the Second Buddha Vasubandhu'
+      base_file: f9DE1.txt
+      order: 1
+      parent: Biography
+    f3B9F:
+      title: In Praise of the Three Jewels
+      base_file: f3B9F.txt
+      order: 2
+      parent: Praise
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
